@@ -1,16 +1,18 @@
-# React + Vite
+# My Home Storage Manager
+## 项目介绍
+如果你也曾翻箱倒柜找那包“明明就在这儿”的辣条，  
+如果你也曾把羽绒服塞进行李箱后才发现——夏天它根本装不下，  
+如果你也曾被老妈灵魂拷问：“去年买的泡脚桶到底塞哪了？”  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+那么恭喜你，找到了救命稻草——**My Home Storage Manager**！  
 
-Currently, two official plugins are available:
+这玩意儿就是帮你把“家”从黑洞级储物间升级成智能仓库：  
+- 扫一扫，物品秒入库，告别“我东西呢”的哲学难题；  
+- 搜一搜，羽绒服、泡脚桶、甚至前任送的分手礼物，一键定位；  
+- 容量预警，再囤 10 斤洗衣液之前先提醒你：哥们，柜子已经塞爆啦！  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+总之，用了它，找东西快得就像外卖小哥找你家单元门；  
+不用它，找东西慢得就像你找手机——结果发现手机在你手里。  
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+来吧，给家里的每个纸箱、抽屉、床底都装上 GPS，  
+让“收纳”不再是玄学，而是科学！
